@@ -1,7 +1,7 @@
 ## Hi there 👋, je suis Boussad ait djoudi
-
+<div align="center">
 ![Data Science Banner](output.gif)
-
+</div>
 ## 📊 Data Scientist passionné | Python & SQL | IA & Big Data
 
 ### 🎓 Formation
