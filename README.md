@@ -1,6 +1,6 @@
 ## Hi there 👋, je suis Boussad ait djoudi
 
-![Data Science Banner](mygif.gif)
+![Data Science Banner](output.gif)
 
 ## 📊 Data Scientist passionné | Python & SQL | IA & Big Data
 
@@ -21,14 +21,14 @@ skills = {
     "Data Analysis": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
     "Machine Learning": ["Scikit-learn", "TensorFlow", "Keras", "PyTorch"],
     "Big Data": ["Spark", "Hadoop", "MongoDB"],
-    "Outils": ["Jupyter", "Git", "Docker", "AWS", "power BI]
+    "Outils": ["Jupyter", "Git", "Docker", "AWS", "power BI"]
 }
 ```
 
 
 
 <div align="center">
-  <img src="giphy.gif" width="450" />
+  <img src="output2.gif" width="450" />
 </div>
 
 ### 💡 À propos de moi
