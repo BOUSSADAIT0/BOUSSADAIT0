@@ -37,8 +37,8 @@ Passionné par la data science et l'intelligence artificielle, j'aime relever de
 
 ### 📫 Contact
 
-- 📧 Email : [votre.email@example.com](mailto:aitdjoudioufellaboussad@gmail.com)
-- 🔗 LinkedIn : [linkedin.com/in/votrenom](https://www.linkedin.com/in/boussad-ait-djoudi-oufella-bb5882217/)
+- 📧 Email : [itdjoudioufellaboussad@gmail.com](mailto:aitdjoudioufellaboussad@gmail.com)
+- 🔗 LinkedIn : [boussad-ait-djoudi-oufella](https://www.linkedin.com/in/boussad-ait-djoudi-oufella-bb5882217/)
 
 ---
 
