@@ -84,7 +84,7 @@ print(BoussadAitDjoudi().looking_for_en)
 
 <div align="center">
 
-[![OpBento](https://opbento.vercel.app/api/bento/image?g=BOUSSADAIT0&z=bdait)](https://opbento.vercel.app)
+[![OpBento](https://opbento.vercel.app/api/bento/image?g=BOUSSADAIT0&z=bouss)](https://opbento.vercel.app)
 
 </div>
 

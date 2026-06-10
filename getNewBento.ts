@@ -1,5 +1,5 @@
 const apiUrl =
-  "https://opbento.vercel.app/api/bento?n=Boussad%20Ait%20Djoudi&g=BOUSSADAIT0&l=boussad-ait-djoudi-oufella&i=https%3A%2F%2Fgithub.com%2FBOUSSADAIT0.png&z=bdait";
+  "https://opbento.vercel.app/api/bento?n=Boussad%20Ait%20Djoudi&g=BOUSSADAIT0&l=boussad-ait-djoudi-oufella&i=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97845840&z=bouss";
 
 interface BentoResponse {
   url: string;
